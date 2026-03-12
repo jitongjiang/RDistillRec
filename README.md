@@ -1,4 +1,4 @@
-Official code for difficulty-aware curriculum and token-weighted rationale distillation for sequential recommendation.
+Code for difficulty-aware curriculum and token-weighted rationale distillation for sequential recommendation.
  
  # Raw Datasets
 
