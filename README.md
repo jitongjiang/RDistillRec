@@ -1,4 +1,6 @@
-﻿# Raw Datasets
+Official code for difficulty-aware curriculum and token-weighted rationale distillation for sequential recommendation.
+ 
+ # Raw Datasets
 
 **MovieLens Datasets**: The origin dataset can be found [here](https://grouplens.org/datasets/movielens/).
 
